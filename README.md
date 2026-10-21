@@ -32,4 +32,19 @@ O resultado da soma é 13.
 É necessário ter o Python instalado no computador
 1. Baixe ou clone este repositório;
 2. Abra o terminal na pasta do projeto;
-3. Execute o arquivo principal com o comando
+3. Execute o arquivo principal com o comando:
+```bash
+python main.py
+```
+
+Se o seu sistema utilizar o comando `python3`, execute:
+
+```bash
+python3 main.py
+```
+A saída exibirá as instruções executadas, o valor do PC, o conteúdo dos registradores e os resultados armazenados na memória.
+
+## TECNOLOGIAS UTILIZADAS
+- Python;
+- Git e Github
+
