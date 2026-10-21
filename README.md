@@ -46,6 +46,7 @@ A saída exibirá as instruções executadas, o valor do PC, o conteúdo dos reg
 
 ## TECNOLOGIAS UTILIZADAS
 - Python;
+- VSCode
 - Git e Github
 
 ## AUTORES
