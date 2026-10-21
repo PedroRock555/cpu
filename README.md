@@ -48,3 +48,7 @@ A saída exibirá as instruções executadas, o valor do PC, o conteúdo dos reg
 - Python;
 - Git e Github
 
+## AUTORES
+- Mateus Gomes do Nascimento
+- Pedro Paulo Monteiro Nunes
+
